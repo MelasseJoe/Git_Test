@@ -9,6 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // Test de changement de version sur GitHub
+
 
         setContentView(R.layout.activity_main);
     }
