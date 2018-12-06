@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         // test de la branceh 3 pour ere sur !
 
 
+
         setContentView(R.layout.activity_main);
     }
 }
